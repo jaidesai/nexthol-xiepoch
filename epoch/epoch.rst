@@ -202,6 +202,8 @@ Integrations are what power advanced data collection within the AOC with support
 #. In the **AOC**, select **Dashboards**.
 
    This page offers many pre-configured dashboards based on native data capture like **System - Disk I/O** and **Network Flows**, as well as dashboards based on integrations like **MySQL** and **HTTP**.
+   Each of these pre-configured dashboards can be cloned and customized per indiviual user requirements. You can also change into different view by clicking on edit "Pencil icon"
+   Note: Epoch team is putting some new UI enchancements so the screenshots might not match exact as shown in Lab. We shall update the screenshots once all UI changes are incorporated by Epoch engineering team
 
 #. Select the **MySQL** dashboard and ensure your selected timeline includes the time period you created and deleted tasks in your Task Manager web application.
 
